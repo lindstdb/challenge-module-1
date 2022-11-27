@@ -2,12 +2,12 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+Reafctoring the Horiseon landing page.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- To increase search engine optimization and organization of information.
+- To better understand semantic HTML elements and coding over-all.
+- Refactoring makes the structure more clear,  optimizes for screen readers, and enhances search engine optimization. 
+- I learned the importance of semantic code, alt titles, as well as css linking properties.
 
 
 ## Usage
@@ -21,10 +21,9 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+MDN Web Docs "HTML Web Fundamentals"
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals
 
-If you followed tutorials, include links to those here as well.
 
 ---
