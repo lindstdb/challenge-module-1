@@ -16,7 +16,7 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ### Screenshot
 
-![screenshot of module one challenge](assets/images/screenshot.png)
+![screenshot of module one challenge](assets/images/screenshot.PNG)
   
 
 ## Credits
